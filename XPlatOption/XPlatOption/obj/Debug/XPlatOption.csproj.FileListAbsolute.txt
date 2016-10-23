@@ -1,0 +1,12 @@
+c:\users\me\documents\visual studio 2015\Projects\XPlatOption\XPlatOption\XPlatOption\bin\Debug\XPlatOption.dll
+c:\users\me\documents\visual studio 2015\Projects\XPlatOption\XPlatOption\XPlatOption\bin\Debug\XPlatOption.pdb
+c:\users\me\documents\visual studio 2015\Projects\XPlatOption\XPlatOption\XPlatOption\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\me\documents\visual studio 2015\Projects\XPlatOption\XPlatOption\XPlatOption\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\me\documents\visual studio 2015\Projects\XPlatOption\XPlatOption\XPlatOption\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\me\documents\visual studio 2015\Projects\XPlatOption\XPlatOption\XPlatOption\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\me\documents\visual studio 2015\Projects\XPlatOption\XPlatOption\XPlatOption\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\me\documents\visual studio 2015\Projects\XPlatOption\XPlatOption\XPlatOption\obj\Debug\XPlatOption.csprojResolveAssemblyReference.cache
+c:\users\me\documents\visual studio 2015\Projects\XPlatOption\XPlatOption\XPlatOption\obj\Debug\XPlatOption.dll
+c:\users\me\documents\visual studio 2015\Projects\XPlatOption\XPlatOption\XPlatOption\obj\Debug\XPlatOption.pdb
+c:\users\me\documents\visual studio 2015\Projects\XPlatOption\XPlatOption\XPlatOption\obj\Debug\XPlatOption.dll.mdb
+c:\users\me\documents\visual studio 2015\Projects\XPlatOption\XPlatOption\XPlatOption\bin\Debug\XPlatOption.dll.mdb
